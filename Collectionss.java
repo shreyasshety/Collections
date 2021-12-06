@@ -59,17 +59,6 @@ public class Collectionss {
 		System.out.println("Number of Bikes  added is : " + bikecollection.size());
 		System.out.println("Number of Cars  added is : " + carcollection.size());
 		System.out.println("Number of Lipsticks  added is : " + lipstickcollection.size());
-
-
-
-		
-
-
-
-
-
-		
+		}
 
 	}
-
-}
